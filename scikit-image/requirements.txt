@@ -1,4 +1,4 @@
-scikit-image
+scikit-image==0.18.3
 ipykernel
 numpy
 matplotlib
